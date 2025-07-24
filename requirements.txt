@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+youtube-transcript-api
+langchain
+langchain-community
+langchain-pinecone
+langchain-huggingface
+langchain-groq
+pinecone-client
+faiss-cpu
+transformers
+torch
+sentence-transformers
